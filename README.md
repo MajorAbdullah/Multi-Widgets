@@ -1,4 +1,3 @@
-
 # Multi
 
 ## Overview
@@ -115,17 +114,18 @@ multi/
 ## Installation
 
 1. **Prerequisites:**
+
    - [Flutter SDK](https://flutter.dev/docs/get-started/install)
    - Dart SDK (included with Flutter)
    - Android Studio or Xcode (for device emulation)
-
 2. **Clone the repository:**
+
    ```sh
    git clone https://github.com/yourusername/multi.git
    cd multi
    ```
-
 3. **Install dependencies:**
+
    ```sh
    flutter pub get
    ```
@@ -196,80 +196,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## Contact
-
-For questions or support, please contact:
-
-- **Author:** saabd
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-
----
-
-If you need this README added to your project or want to customize it further, let me know!
-
-1. **Prerequisites:**
-   - [Flutter SDK](https://flutter.dev/docs/get-started/install)
-   - Dart SDK (included with Flutter)
-   - Android Studio or Xcode (for device emulation)
-
-2. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/multi.git
-   cd multi
-   ```
-
-3. **Install dependencies:**
-   ```sh
-   flutter pub get
-   ```
-
-## Running the App
-
-- **Android:**
-  ```sh
-  flutter run
-  ```
-- **iOS:**
-  ```sh
-  flutter run
-  ```
-
-You can also use your IDE's built-in Flutter tools to run and debug the app.
-
-## Configuration
-
-- Update `pubspec.yaml` to add or remove dependencies.
-- Modify environment variables or API keys in `lib/services/` as needed.
-
-## Dependencies
-
-Key dependencies (see `pubspec.yaml` for full list):
-- `flutter`
-- `provider` or `bloc` (for state management)
-- `http` (for API calls)
-- `shared_preferences` (for local storage)
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-## Contact
-
-For questions or support, please contact:
-- **Author:** saabd
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
